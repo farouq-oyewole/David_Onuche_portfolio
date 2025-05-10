@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659899360025",
+    "project_id": "onuche-david-a022f",
+    "storage_bucket": "onuche-david-a022f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659899360025:android:606070b865c64dc2535b88",
+        "android_client_info": {
+          "package_name": "com.example.onuche_david"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZl2SXbARxMogCw5GyGFHwIzltt0SGa_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
